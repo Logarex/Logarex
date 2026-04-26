@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salut, moi c'est Louis ! 👋
 
-<!--
-**Logarex/Logarex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 À propos de moi
+Je suis étudiant en ingénierie informatique à l'**EPITA** (Toulouse) et actuellement en semestre d'échange à l'**Université de Nanjing** en Chine. Passionné par l'écosystème Apple et l'administration système, je cherche à concilier haute performance technique et numérique responsable.
 
-Here are some ideas to get you started:
+- 🛠️ **Actuellement :** Expert technique chez C&C (Apple Premium Partner) et Consultant IT Freelance.
+- 🧪 **Projets récents :** Automatisation de gestion, déploiement de serveurs VPN (Hysteria/Trojan) et HomeLab sous Docker.
+- 🌍 **Engagement :** Certifié Numérique Responsable (INR/Inria) et sensibilisé à l'accessibilité numérique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Technique
+- **Langages :** Python, C, C#, Swift, Shell
+- **DevOps & SysAdmin :** Docker, Linux (Debian/Ubuntu), GitHub Actions
+- **Outils :** Xcode, Suite Apple, Microsoft 365
+
+### 📊 Statistiques GitHub
+![Stats de Louis](https://github-readme-stats.vercel.app/api?username=Logarex&show_icons=true&theme=radical)
+
+📫 **Me contacter :** www.linkedin.com/in/louis-chabert
