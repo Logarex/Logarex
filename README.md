@@ -12,7 +12,4 @@ Je suis étudiant en ingénierie informatique à l'**EPITA** (Toulouse) et actue
 - **DevOps & SysAdmin :** Docker, Linux (Debian/Ubuntu), GitHub Actions
 - **Outils :** Xcode, Suite Apple, Microsoft 365
 
-### 📊 Statistiques GitHub
-![Stats de Louis](https://github-readme-stats.vercel.app/api?username=Logarex&show_icons=true&theme=radical)
-
 📫 **Me contacter :** www.linkedin.com/in/louis-chabert
