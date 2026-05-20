@@ -6,15 +6,16 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 🚀 About Me
 I am a computer engineering student at **EPITA** (Toulouse) and currently on an exchange semester at **Nanjing University** in China. Passionate about the Apple ecosystem and system administration, I strive to reconcile high technical performance with digital responsibility.
 
-- 🛠️ **Currently:** Freelance IT Consultant. Previously Technical Expert at C&C (Apple Premium Partner) for 1 year.
-- 🧪 **Featured Project:** **[AvoCook](https://github.com/Logarex/AvoCook)** – A modern offline-first recipe manager for iOS & Android with optional Nextcloud Cookbook synchronization, built with Expo React Native, TypeScript, and SQLite.
-- 📡 **Other Projects:** Management automation, VPN server deployment (Hysteria/Trojan), and HomeLab using Docker.
-- 🌍 **Engagement:** Certified Responsible Digital Professional (INR/Inria) and active advocate for digital accessibility.
+- 🛠️ **Currently:** Freelance IT Consultant (previously Technical Expert at C&C - Apple Premium Partner for 1 year).
+- 🧪 **Recent projects:** 
+  - **[AvoCook](https://github.com/Logarex/AvoCook)**: A modern offline-first recipe manager for iOS & Android with optional Nextcloud Cookbook synchronization (built with Expo React Native, TypeScript, and SQLite).
+  - VPN server deployment (Hysteria/Trojan), HomeLab using Docker, and management automation.
+- 🌍 **Engagement:** Certified Responsible Digital Professional (INR/Inria) and aware of digital accessibility.
 
 ### 💻 Technical Stack
 <p align="left">
@@ -38,14 +39,15 @@ I am a computer engineering student at **EPITA** (Toulouse) and currently on an 
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 ### 🚀 À propos de moi
 Je suis étudiant en ingénierie informatique à l'**EPITA** (Toulouse) et actuellement en semestre d'échange à l'**Université de Nanjing** en Chine. Passionné par l'écosystème Apple et l'administration système, je cherche à concilier haute performance technique et numérique responsable.
 
-- 🛠️ **Actuellement :** Consultant IT Freelance. Anciennement Expert technique chez C&C (Apple Premium Partner) pendant 1 an.
-- 🧪 **Projet Phare :** **[AvoCook](https://github.com/Logarex/AvoCook)** – Application de cuisine moderne et offline-first (iOS & Android) synchronisée avec Nextcloud Cookbook. Développée avec Expo React Native, TypeScript et SQLite.
-- 📡 **Autres Projets :** Automatisation de gestion, déploiement de serveurs VPN (Hysteria/Trojan) et HomeLab sous Docker.
+- 🛠️ **Actuellement :** Consultant IT Freelance (anciennement Expert technique chez C&C - Apple Premium Partner pendant 1 an).
+- 🧪 **Projets récents :** 
+  - **[AvoCook](https://github.com/Logarex/AvoCook)** : Une application mobile de cuisine moderne et offline-first (iOS & Android) synchronisée avec Nextcloud Cookbook (développée avec Expo React Native, TypeScript et SQLite).
+  - Déploiement de serveurs VPN (Hysteria/Trojan), HomeLab sous Docker et automatisation de gestion.
 - 🌍 **Engagement :** Certifié Numérique Responsable (INR/Inria) et sensibilisé à l'accessibilité numérique.
 
 ### 💻 Stack Technique
