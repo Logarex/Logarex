@@ -1,4 +1,4 @@
-# Hi, I'm Louis! 👋 / Salut, moi c'est Louis! 👋
+# Hi, I'm Louis! 👋
 
 <p align="center">
   <b><a href="#-english">English</a></b> | <b><a href="#-français">Français</a></b>
