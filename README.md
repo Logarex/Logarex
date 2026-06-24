@@ -13,6 +13,7 @@ I am a computer engineering student at **EPITA** (Toulouse) and currently on an 
 
 - 🛠️ **Currently:** Freelance IT Consultant (previously Technical Expert at C&C - Apple Premium Partner for 1 year).
 - 🧪 **Recent projects:** 
+  - **[Atlas Places](https://github.com/Logarex/Atlas-Places):** An open-source, community-driven mobile app to discover, track, and collect Apple Stores worldwide. Built with Expo React Native & TypeScript — 100% local-first, no external database.
   - **[AvoCook](https://github.com/Logarex/AvoCook)**: A modern offline-first recipe manager for iOS & Android with optional Nextcloud Cookbook synchronization (built with Expo React Native, TypeScript, and SQLite).
   - VPN server deployment (Hysteria/Trojan), HomeLab using Docker, and management automation.
 - 🌍 **Engagement:** Certified Responsible Digital Professional (INR/Inria) and aware of digital accessibility.
@@ -46,6 +47,7 @@ Je suis étudiant en ingénierie informatique à l'**EPITA** (Toulouse) et actue
 
 - 🛠️ **Actuellement :** Consultant IT Freelance (anciennement Expert technique chez C&C - Apple Premium Partner pendant 1 an).
 - 🧪 **Projets récents :** 
+  - **[Atlas Places](https://github.com/Logarex/Atlas-Places) :** Application mobile open-source et communautaire pour découvrir, suivre et collectionner les Apple Stores du monde entier. Développée avec Expo React Native & TypeScript — 100% local-first, sans base de données externe.
   - **[AvoCook](https://github.com/Logarex/AvoCook)** : Une application mobile de cuisine moderne et offline-first (iOS & Android) synchronisée avec Nextcloud Cookbook (développée avec Expo React Native, TypeScript et SQLite).
   - Déploiement de serveurs VPN (Hysteria/Trojan), HomeLab sous Docker et automatisation de gestion.
 - 🌍 **Engagement :** Certifié Numérique Responsable (INR/Inria) et sensibilisé à l'accessibilité numérique.
