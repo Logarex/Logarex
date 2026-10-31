@@ -1,73 +1,59 @@
 # Hi, I'm Louis! 👋
 
-<p align="center">
-  <b><a href="#-english">English</a></b> | <b><a href="#-français">Français</a></b>
-</p>
+[English](#english) | [Français](#français)
 
 ---
 
 ## English
 
-### 🚀 About Me
-I am a computer engineering student at **EPITA** (Toulouse) and currently on an exchange semester at **Nanjing University** in China. Passionate about the Apple ecosystem and system administration, I strive to reconcile high technical performance with digital responsibility.
+### About Me
+I am a computer engineering student at **EPITA** (Toulouse, France), having previously completed an academic exchange semester at **Nanjing University** in China.
 
-- 🛠️ **Currently:** Freelance IT Consultant (previously Technical Expert at C&C - Apple Premium Partner for 1 year).
-- 🧪 **Recent projects:** 
-  - **[Atlas Places](https://github.com/Logarex/Atlas-Places):** An open-source, community-driven mobile app to discover, track, and collect Apple Stores worldwide. Built with Expo React Native & TypeScript — 100% local-first, no external database.
-  - **[AvoCook](https://github.com/Logarex/AvoCook)**: A modern offline-first recipe manager for iOS & Android with optional Nextcloud Cookbook synchronization (built with Expo React Native, TypeScript, and SQLite).
-  - VPN server deployment (Hysteria/Trojan), HomeLab using Docker, and management automation.
-- 🌍 **Engagement:** Certified Responsible Digital Professional (INR/Inria) and aware of digital accessibility.
+Passionate about the Apple ecosystem, mobile engineering, and system administration, I enjoy building tools that are efficient, reliable, and respectful of user privacy and resources. I am certified in Responsible Digital Practices (INR / Inria) and pay close attention to software accessibility and clean architecture.
 
-### 💻 Technical Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Expo-00020d?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-</p>
+Alongside my studies:
+- **Freelance IT Consultant:** Assisting individuals and small teams with infrastructure, Apple device fleets, and custom tooling.
+- **Former Apple Specialist at C&C** (Apple Premium Partner, 1 year): Advised customers, handled diagnostics, and provided technical workshops across macOS, iOS, and enterprise setups.
 
-📫 **Contact me:** [www.linkedin.com/in/louis-chabert](https://www.linkedin.com/in/louis-chabert)
+### Featured Projects
+- **[Atlas Places](https://github.com/Logarex/Atlas-Places)**: An open-source mobile application for discovering, tracking, and collecting visits to Apple Stores worldwide. Built with Expo, React Native, and TypeScript using a 100% local-first approach without any external database dependency.
+- **[AvoCook](https://github.com/Logarex/AvoCook)**: A modern, offline-first culinary manager for iOS and Android. It functions completely standalone with a local SQLite database, integrates recipe scraping (JSON-LD / Schema.org), and optionally syncs bidirectionally with Nextcloud Cookbook.
+- **Self-Hosting & Homelab**: Personal server infrastructure powered by Docker, automated management scripts, and secure VPN routing (Hysteria, Trojan) tailored for restricted networks.
+
+### Technical Stack
+- **Languages:** Swift, TypeScript, Python, C, C#, Shell (Bash/Zsh)
+- **Mobile & Frontend:** React Native, Expo, React Navigation, SQLite
+- **DevOps & SysAdmin:** Docker, Linux (Debian, Ubuntu), GitHub Actions, Reverse Proxies
+- **Environments & Tools:** Xcode, macOS / Apple ecosystem, Microsoft 365, Git
+
+### Contact & Links
+- LinkedIn: [linkedin.com/in/louis-chabert](https://www.linkedin.com/in/louis-chabert)
+- GitHub: [github.com/Logarex](https://github.com/Logarex)
 
 ---
 
 ## Français
 
-### 🚀 À propos de moi
-Je suis étudiant en ingénierie informatique à l'**EPITA** (Toulouse) et actuellement en semestre d'échange à l'**Université de Nanjing** en Chine. Passionné par l'écosystème Apple et l'administration système, je cherche à concilier haute performance technique et numérique responsable.
+### À propos de moi
+Je suis étudiant en ingénierie informatique à l'**EPITA** (Toulouse), après avoir effectué un semestre d'échange universitaire à l'**Université de Nanjing** en Chine.
 
-- 🛠️ **Actuellement :** Consultant IT Freelance (anciennement Expert technique chez C&C - Apple Premium Partner pendant 1 an).
-- 🧪 **Projets récents :** 
-  - **[Atlas Places](https://github.com/Logarex/Atlas-Places) :** Application mobile open-source et communautaire pour découvrir, suivre et collectionner les Apple Stores du monde entier. Développée avec Expo React Native & TypeScript — 100% local-first, sans base de données externe.
-  - **[AvoCook](https://github.com/Logarex/AvoCook)** : Une application mobile de cuisine moderne et offline-first (iOS & Android) synchronisée avec Nextcloud Cookbook (développée avec Expo React Native, TypeScript et SQLite).
-  - Déploiement de serveurs VPN (Hysteria/Trojan), HomeLab sous Docker et automatisation de gestion.
-- 🌍 **Engagement :** Certifié Numérique Responsable (INR/Inria) et sensibilisé à l'accessibilité numérique.
+Passionné par l'écosystème Apple, le développement mobile et l'administration système, j'aime concevoir des applications et des outils fiables, performants et respectueux des données utilisateur. Je suis également certifié Numérique Responsable (INR / Inria) et particulièrement attentif à l'accessibilité logicielle ainsi qu'aux architectures légères.
 
-### 💻 Stack Technique
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Expo-00020d?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-</p>
+En parallèle de mes études :
+- **Consultant IT en freelance :** Accompagnement technique, gestion d'infrastructure, intégration d'environnements Apple et automatisation de processus.
+- **Ancien Spécialiste Apple chez C&C** (Apple Premium Partner, 1 an) : Conseil client, diagnostic matériel et logiciel, et animation d'ateliers techniques autour des produits et services Apple.
 
-📫 **Me contacter :** [www.linkedin.com/in/louis-chabert](https://www.linkedin.com/in/louis-chabert)
+### Projets récents
+- **[Atlas Places](https://github.com/Logarex/Atlas-Places)** : Application mobile open-source et collaborative pour découvrir, répertorier et collectionner les visites d'Apple Stores à travers le monde. Conçue avec Expo, React Native et TypeScript, dans une démarche 100% *local-first* sans dépendance à un serveur externe.
+- **[AvoCook](https://github.com/Logarex/AvoCook)** : Application de cuisine moderne et autonome pour iOS et Android. Utilisable entièrement hors-ligne grâce à une base SQLite locale, avec import intelligent de recettes via métadonnées (JSON-LD / Schema.org) et synchronisation bidirectionnelle optionnelle avec Nextcloud Cookbook.
+- **Auto-hébergement & Homelab** : Infrastructure personnelle sous Docker, serveurs VPN (Hysteria, Trojan) optimisés pour réseaux contraints, et scripts d'automatisation d'administration.
+
+### Stack Technique
+- **Langages :** Swift, TypeScript, Python, C, C#, Shell (Bash/Zsh)
+- **Mobile & Frontend :** React Native, Expo, React Navigation, SQLite
+- **DevOps & SysAdmin :** Docker, Linux (Debian, Ubuntu), GitHub Actions, Reverse Proxies
+- **Environnements & Outils :** Xcode, écosystème Apple, Microsoft 365, Git
+
+### Me contacter
+- LinkedIn : [linkedin.com/in/louis-chabert](https://www.linkedin.com/in/louis-chabert)
+- GitHub : [github.com/Logarex](https://github.com/Logarex)
