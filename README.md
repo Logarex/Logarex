@@ -6,54 +6,36 @@
 
 ## English
 
-### About Me
-I am a computer engineering student at **EPITA** (Toulouse, France), having previously completed an academic exchange semester at **Nanjing University** in China.
+I'm a computer engineering student at **EPITA** in Toulouse, France, following an exchange semester at **Nanjing University** in China.
 
-Passionate about the Apple ecosystem, mobile engineering, and system administration, I enjoy building tools that are efficient, reliable, and respectful of user privacy and resources. I am certified in Responsible Digital Practices (INR / Inria) and pay close attention to software accessibility and clean architecture.
+I love building mobile apps, exploring the Apple ecosystem, and tinkering with Linux and self-hosting. Alongside my studies, I spent a year working as an Apple Specialist at C&C, and I do some freelance IT consulting on the side. I'm also interested in sustainable software (INR/Inria certified).
 
-Alongside my studies:
-- **Freelance IT Consultant:** Assisting individuals and small teams with infrastructure, Apple device fleets, and custom tooling.
-- **Former Apple Specialist at C&C** (Apple Premium Partner, 1 year): Advised customers, handled diagnostics, and provided technical workshops across macOS, iOS, and enterprise setups.
+### What I'm building
+- **[Atlas Places](https://github.com/Logarex/Atlas-Places)**: An iOS & Android app to explore, track, and collect visits to Apple Stores worldwide (Expo, React Native, TypeScript).
+- **[AvoCook](https://github.com/Logarex/AvoCook)**: An offline-first recipe manager with Nextcloud Cookbook sync (Expo, SQLite).
+- **Homelab & infra**: Personal Docker setups, custom VPNs (Hysteria/Trojan), and automation scripts.
 
-### Featured Projects
-- **[Atlas Places](https://github.com/Logarex/Atlas-Places)**: An open-source mobile application for discovering, tracking, and collecting visits to Apple Stores worldwide. Built with Expo, React Native, and TypeScript using a 100% local-first approach without any external database dependency.
-- **[AvoCook](https://github.com/Logarex/AvoCook)**: A modern, offline-first culinary manager for iOS and Android. It functions completely standalone with a local SQLite database, integrates recipe scraping (JSON-LD / Schema.org), and optionally syncs bidirectionally with Nextcloud Cookbook.
-- **Self-Hosting & Homelab**: Personal server infrastructure powered by Docker, automated management scripts, and secure VPN routing (Hysteria, Trojan) tailored for restricted networks.
+### Tech I use
+- **Languages:** Swift, TypeScript, Python, C, C#, Shell
+- **Tools:** React Native, Expo, Docker, Linux, Xcode, Git
 
-### Technical Stack
-- **Languages:** Swift, TypeScript, Python, C, C#, Shell (Bash/Zsh)
-- **Mobile & Frontend:** React Native, Expo, React Navigation, SQLite
-- **DevOps & SysAdmin:** Docker, Linux (Debian, Ubuntu), GitHub Actions, Reverse Proxies
-- **Environments & Tools:** Xcode, macOS / Apple ecosystem, Microsoft 365, Git
-
-### Contact & Links
-- LinkedIn: [linkedin.com/in/louis-chabert](https://www.linkedin.com/in/louis-chabert)
-- GitHub: [github.com/Logarex](https://github.com/Logarex)
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/louis-chabert) or check out my repositories!
 
 ---
 
 ## Français
 
-### À propos de moi
-Je suis étudiant en ingénierie informatique à l'**EPITA** (Toulouse), après avoir effectué un semestre d'échange universitaire à l'**Université de Nanjing** en Chine.
+Étudiant en ingénierie informatique à l'**EPITA** à Toulouse, après un semestre d'échange à l'**Université de Nanjing** en Chine.
 
-Passionné par l'écosystème Apple, le développement mobile et l'administration système, j'aime concevoir des applications et des outils fiables, performants et respectueux des données utilisateur. Je suis également certifié Numérique Responsable (INR / Inria) et particulièrement attentif à l'accessibilité logicielle ainsi qu'aux architectures légères.
+Je m'intéresse beaucoup au développement mobile, à l'écosystème Apple, à Linux et à l'auto-hébergement. À côté de mes cours, j'ai travaillé un an comme Spécialiste Apple chez C&C, et je fais un peu de freelance en IT. Je suis aussi sensibilisé au numérique responsable (certifié INR/Inria).
 
-En parallèle de mes études :
-- **Consultant IT en freelance :** Accompagnement technique, gestion d'infrastructure, intégration d'environnements Apple et automatisation de processus.
-- **Ancien Spécialiste Apple chez C&C** (Apple Premium Partner, 1 an) : Conseil client, diagnostic matériel et logiciel, et animation d'ateliers techniques autour des produits et services Apple.
+### Mes projets du moment
+- **[Atlas Places](https://github.com/Logarex/Atlas-Places)** : Une application iOS & Android pour découvrir, suivre et collectionner les Apple Stores visités dans le monde (Expo, React Native, TypeScript).
+- **[AvoCook](https://github.com/Logarex/AvoCook)** : Un carnet de recettes offline-first synchronisé avec Nextcloud Cookbook (Expo, SQLite).
+- **Homelab & infra** : Serveur perso sous Docker, serveurs VPN (Hysteria/Trojan) et scripts d'automatisation.
 
-### Projets récents
-- **[Atlas Places](https://github.com/Logarex/Atlas-Places)** : Application mobile open-source et collaborative pour découvrir, répertorier et collectionner les visites d'Apple Stores à travers le monde. Conçue avec Expo, React Native et TypeScript, dans une démarche 100% *local-first* sans dépendance à un serveur externe.
-- **[AvoCook](https://github.com/Logarex/AvoCook)** : Application de cuisine moderne et autonome pour iOS et Android. Utilisable entièrement hors-ligne grâce à une base SQLite locale, avec import intelligent de recettes via métadonnées (JSON-LD / Schema.org) et synchronisation bidirectionnelle optionnelle avec Nextcloud Cookbook.
-- **Auto-hébergement & Homelab** : Infrastructure personnelle sous Docker, serveurs VPN (Hysteria, Trojan) optimisés pour réseaux contraints, et scripts d'automatisation d'administration.
+### Ce que j'utilise
+- **Langages :** Swift, TypeScript, Python, C, C#, Shell
+- **Outils :** React Native, Expo, Docker, Linux, Xcode, Git
 
-### Stack Technique
-- **Langages :** Swift, TypeScript, Python, C, C#, Shell (Bash/Zsh)
-- **Mobile & Frontend :** React Native, Expo, React Navigation, SQLite
-- **DevOps & SysAdmin :** Docker, Linux (Debian, Ubuntu), GitHub Actions, Reverse Proxies
-- **Environnements & Outils :** Xcode, écosystème Apple, Microsoft 365, Git
-
-### Me contacter
-- LinkedIn : [linkedin.com/in/louis-chabert](https://www.linkedin.com/in/louis-chabert)
-- GitHub : [github.com/Logarex](https://github.com/Logarex)
+N'hésite pas à faire un tour sur mon [LinkedIn](https://www.linkedin.com/in/louis-chabert) ou à explorer mes dépôts !
