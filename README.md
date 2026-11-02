@@ -8,8 +8,9 @@ I love building mobile apps, exploring the Apple ecosystem, and tinkering with L
 
 ### What I'm building
 
-- **[Atlas Places](https://github.com/Logarex/Atlas-Places)** — iOS & Android app to explore, track, and collect visits to Apple Stores worldwide (Expo, React Native, TypeScript).
 - **[AvoCook](https://github.com/Logarex/AvoCook)** — Offline-first recipe manager with Nextcloud Cookbook sync (Expo, SQLite).
+- **[Pylo](https://github.com/Logarex/Pylo)** — iOS app to explore the cell towers around you, built on French open data from ANFR (SwiftUI, MapKit).
+- **[Atlas Places](https://github.com/Logarex/Atlas-Places)** — iOS & Android app to explore, track, and collect visits to Apple Stores worldwide (Expo, React Native, TypeScript).
 - **Homelab & infra** — Personal Docker setups, custom VPN servers (Hysteria/Trojan), and automation scripts.
 
 ---
@@ -17,7 +18,7 @@ I love building mobile apps, exploring the Apple ecosystem, and tinkering with L
 ### Tech I use
 
 - **Languages:** Swift, TypeScript, Python, C, C#, Shell
-- **Tools & Frameworks:** React Native, Expo, Docker, Linux, Xcode, Git
+- **Tools & Frameworks:** SwiftUI, MapKit, React Native, Expo, Docker, Linux, Xcode, Git
 
 ---
 
